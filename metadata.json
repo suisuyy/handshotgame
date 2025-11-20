@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS HUD Interface",
+  "description": "An immersive Augmented Reality Iron Man HUD experience featuring head tracking, hand-gesture controlled 3D holograms, and AI-powered system status.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
